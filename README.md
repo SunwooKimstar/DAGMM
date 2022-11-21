@@ -1,7 +1,7 @@
 # **DAGMM**
 
 ## DEEP AUTOENCODING GAUSSIAN MIXTURE MODEL FOR UNSUPERVISED ANOMALY DETECTION [link](https://openreview.net/pdf?id=BJJLHbb0-)
-### **Unofficial DAGMM Implementation
+### **Unofficial DAGMM Implementation**
 
 * DAGMM Structure
 <img src="./imgs/DAGMM/IMG1.png" height = "60%" width = "60%">
