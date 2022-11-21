@@ -10,7 +10,7 @@
   - KDDCUP
 
 * Dimensionality Reduction + Reconstruction loss
-<img src="./imgs/DAGMM/imgg.png" height = "60%" width = "60%">
+<img src="./imgs/DAGMM/imgg.png" height = "50%" width = "50%">
 
 * Result
 
