@@ -9,7 +9,7 @@
 * Dataset
   - KDDCUP
 
-* Dimensionality Reduction + Reconstruction loss
+* Dimensionality Reduction + Reconstruction error
 <img src="./imgs/DAGMM/imgg.png" height = "50%" width = "50%">
 
 * Result
