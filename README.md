@@ -7,7 +7,7 @@
 <img src="./imgs/DAGMM/IMG1.png" height = "60%" width = "60%">
 
 * Dataset
-KDDCUP
+  - KDDCUP
 
 * Dimensionality Reduction + Reconstruction loss
 <img src="./imgs/DAGMM/imgg.png" height = "60%" width = "60%">
